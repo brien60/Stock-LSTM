@@ -2,3 +2,4 @@ stock-lstm-env/
 *.json
 runs/
 data/
+*.txt

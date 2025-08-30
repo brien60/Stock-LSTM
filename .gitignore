@@ -3,3 +3,6 @@ stock-lstm-env/
 runs/
 data/
 *.txt
+slot_tweet_spm.model
+*.jsonl
+spm/
